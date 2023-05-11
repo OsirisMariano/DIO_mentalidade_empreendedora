@@ -13,7 +13,7 @@ que você vai impactar com a sua solução.
 * criar bons times
 * Capacidade de romper obstáculos
 
-Ter tato na hora de enquadrar as soluções
+Ter tato na hora de enquadrar as soluções<br>
 Saber a hora de mudar de rumo
 Priorize a solução, não a ideia
 Equipes pautadas nos mesmos valores
