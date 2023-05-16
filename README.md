@@ -1,6 +1,6 @@
 # DIO_mentalidade_empreendedora
 
-![empreendedorismo](/img/mentalidade_empreendedora.jpg)
+![empreendedorismo](img/mentalidade_empreendedora.jpg)
 
 ## O que vamos aprender nesse curso?
 
