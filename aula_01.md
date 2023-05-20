@@ -19,6 +19,7 @@ Priorize a solução, não a ideia
 Equipes pautadas nos mesmos valores
 
 Desenvolva suas habilidades através de metas
+
 Metas com prazos são como termômetros do negócio
 Assim você consegue analisar onde chegou e onde quer chegar
 Centralização de atividades é um erro muito comum entre os empreendedores
